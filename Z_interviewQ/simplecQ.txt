@@ -1,0 +1,14 @@
+Escape Sequences in C
+Escape sequences are special character combinations that begin with a backslash (\) and are used to represent characters that cannot be typed directly or have special meanings.
+
+
+Significance of main() in C
+The main() function is the entry point of every C program. Its execution starts from main() and ends when the program terminates.
+
+
+
+Procedural Oriented Programming
+In procedural programming, the program is divided into small parts called functions.
+
+Object-Oriented Programming
+In object-oriented programming, the program is divided into small parts called objects.
