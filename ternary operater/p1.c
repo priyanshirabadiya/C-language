@@ -2,7 +2,8 @@
 int main()
 {
 	int a,b;
-	printf("enter a:");
+	printf("\nProgram to find smallest");
+	printf("\nenter a:");
 	scanf("%d",&a);
 	printf("enter b:");
 	scanf("%d",&b);
