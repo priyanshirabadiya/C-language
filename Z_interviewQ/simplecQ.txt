@@ -1,14 +1,59 @@
+what is c language?
+C is a programming language used to write operating systems, compilers, and other software. It was developed in 1972 by Dennis Ritchie at AT&T Labs. 
+Procedural: C is a procedural language that supports structured programming and recursion 
+Compiled: C is a compiled language, which means it's converted into a machine-readable object file before running 
+Fast: C is a fast language with clean syntax 
+* Uses of C :
+Building database management systems
+Designing compilers
+Developing operating systems
+Graphical user interfaces
+Gaming and animation
+Embedded systems
+Browser engines
+
+Procedural Oriented Programming
+In procedural programming, the program is divided into small parts called functions.
+Procedural programming follows a top-down approach.
+There is no access specifier in procedural programming.
+Procedural programming is used for designing medium-sized programs.
+
+
 Escape Sequences in C
 Escape sequences are special character combinations that begin with a backslash (\) and are used to represent characters that cannot be typed directly or have special meanings.
 
-
 Significance of main() in C
 The main() function is the entry point of every C program. Its execution starts from main() and ends when the program terminates.
-
-
 
 Procedural Oriented Programming
 In procedural programming, the program is divided into small parts called functions.
 
 Object-Oriented Programming
-In object-oriented programming, the program is divided into small parts called objects.
+In object-oriented programming, the program is divided into small parts called objects. 
+
+
+key feactues of c language
+The C programming language has many key features, including efficiency, portability, and memory management
+C is a fast and efficient language that can write reliable code.
+C provides efficient memory management with low-level access to memory.
+Lexical variable scope: C has lexical variable scope.
+Static type system: C has a static type system. 
+
+
+what is recursion in c?
+The recursion process in C refers to the process in which the program repeats a certain section of code in a similar way. Thus, in the programming languages, when the program allows the user to call any function inside the very same function, it is referred to as a recursive call in that function. 
+
+what are data types in c?
+Each variable in C has an associated data type. It specifies the type of data that the variable can store like integer, character, floating, double, etc.
+Primitive Data Types: Primitive data types are the most basic data types that are used for representing simple values such as integers, float, characters, etc. ex : int, char, float, double, void 
+Derived Types : The data types that are derived from the primitive or built-in datatypes are referred to as Derived Data Types. ex : array, pointers, function
+
+what is reserved keyword in c?
+In the C programming language, a reserved keyword is a word that has a predefined meaning and cannot be used as an identifier (e.g., variable name, function name). Ex: 
+Data types: int, char, float, double, void, short, long, signed, unsigned
+Control flow: if, else, switch, case, default, for, while, do, break, continue, goto 
+Storage classes: auto, static, extern, register
+Other keywords: const, volatile, return, sizeof, struct, typedef, union, enum
+
+difference between getchar and scanf
+In C, the getchar() function reads one character from the standard input stream, while the scanf() function reads multiple data types, including integers, floats, and strings. 
